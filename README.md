@@ -2,6 +2,8 @@
 
 This project implements an AI-powered chatbot for movie-related queries using Streamlit and LangChain frameworks. The chatbot integrates Retrieval-Augmented Generation (RAG) to enhance response accuracy by retrieving relevant information from a pdf.
 
+<img width="1440" alt="Screenshot 2024-07-11 at 11 30 24 PM" src="https://github.com/user-attachments/assets/18beca6d-bfa3-490f-a4d4-a40ef5ce6870">
+
 ## Features
 ### Retrieval-Augmented Generation (RAG): 
 Integrates information retrieval to enhance chatbot responses.
@@ -41,4 +43,4 @@ Enhance UI/UX with additional features like voice interaction or sentiment analy
 ## YouTube link:
 https://youtu.be/U3JpbBRGVak 
 
-<img width="1440" alt="Screenshot 2024-07-11 at 11 30 24 PM" src="https://github.com/user-attachments/assets/18beca6d-bfa3-490f-a4d4-a40ef5ce6870">
+
